@@ -1,0 +1,8 @@
+l=[]
+n=int(input('entern value'))
+for i in range(n):
+    x=input('enter elements')
+    l.append(x)
+print('maximum value=',max(x))
+print('minimum value=',min(x))
+
